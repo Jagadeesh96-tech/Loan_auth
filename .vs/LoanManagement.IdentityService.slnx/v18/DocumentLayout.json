@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\loanmanagement.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\loanmanagement.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\loanmanagement.identityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\loanmanagement.identityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|c:\\users\\veere\\onedrive\\desktop\\loanmanagement.identityservice\\loanmanagement.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C10A7B8-A801-50D2-2F49-018089DA143F}|LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj|solutionrelative:loanmanagement.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanManagement.IdentityService",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "RelativeToolTip": "LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T18:00:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\IdentitySeeder.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:50:28.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Configurations\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Configurations\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Configurations\\JwtSettings.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Configurations\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:50:20.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:50:11.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\DTOs\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:33.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\DTOs\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\ResetPasswordDto.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\DTOs\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:28.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Services\\IAuthService.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:15.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Services\\AuthService.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:49:11.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\Program.cs",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\Program.cs",
+              "RelativeToolTip": "LoanManagement.IdentityService\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:44:11.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\appsettings.Development.json",
+              "RelativeToolTip": "LoanManagement.IdentityService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T16:42:08.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\appsettings.json",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\appsettings.json",
+              "RelativeToolTip": "LoanManagement.IdentityService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T16:42:04.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanManagement.IdentityService.csproj",
+              "DocumentMoniker": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "RelativeDocumentMoniker": "LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "ToolTip": "C:\\Users\\veere\\OneDrive\\Desktop\\LoanManagement.IdentityService\\LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "RelativeToolTip": "LoanManagement.IdentityService\\LoanManagement.IdentityService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T16:36:48.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

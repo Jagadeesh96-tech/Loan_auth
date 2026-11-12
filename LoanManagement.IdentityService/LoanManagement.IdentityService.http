@@ -1,0 +1,6 @@
+@LoanManagement.IdentityService_HostAddress = http://localhost:5259
+
+GET {{LoanManagement.IdentityService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
