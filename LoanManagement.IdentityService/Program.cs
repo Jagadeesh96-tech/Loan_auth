@@ -119,11 +119,11 @@ using (var scope = app.Services.CreateScope())
 }
 
 // 11. Swagger Middleware
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 // 12. Middleware Pipeline
 app.UseHttpsRedirection();
