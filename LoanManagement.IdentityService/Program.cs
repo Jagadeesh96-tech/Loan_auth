@@ -83,6 +83,19 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 // 8. Swagger Configuration
 builder.Services.AddEndpointsApiExplorer();
 
+// 8.a Build Application
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLoanUI", policy =>
+    {
+        policy.WithOrigins(
+                "https://loan-auth-ui.onrender.com",
+                "http://localhost:5173"
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
 builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
@@ -109,19 +122,7 @@ builder.Services.AddSwaggerGen(options =>
 // 9. Build Application
 var app = builder.Build();
 
-// 10.a Build Application
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowLoanUI", policy =>
-    {
-        policy.WithOrigins(
-                "https://loan-auth-ui.onrender.com",
-                "http://localhost:5173"
-            )
-            .AllowAnyHeader()
-            .AllowAnyMethod();
-    });
-});
+
 
 // 10. Seed Identity Roles
 using (var scope = app.Services.CreateScope())
