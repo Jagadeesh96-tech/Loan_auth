@@ -109,6 +109,20 @@ builder.Services.AddSwaggerGen(options =>
 // 9. Build Application
 var app = builder.Build();
 
+// 10.a Build Application
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLoanUI", policy =>
+    {
+        policy.WithOrigins(
+                "https://loan-auth-ui.onrender.com",
+                "http://localhost:5173"
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 // 10. Seed Identity Roles
 using (var scope = app.Services.CreateScope())
 {
@@ -127,6 +141,8 @@ using (var scope = app.Services.CreateScope())
 
 // 12. Middleware Pipeline
 app.UseHttpsRedirection();
+
+app.UseCors("AllowLoanUI");
 
 app.UseAuthentication();
 
